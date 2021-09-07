@@ -19,3 +19,8 @@ while m>0 :
     print(f'm = {m}')
     m -=1
 print('Ket Thuc')
+chuoi1 = ['a','b','c','d']
+while chuoi1 :
+    chuoi1.pop()
+    print(chuoi1)
+    
