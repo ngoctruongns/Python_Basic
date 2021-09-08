@@ -23,4 +23,4 @@ chuoi1 = ['a','b','c','d']
 while chuoi1 :
     chuoi1.pop()
     print(chuoi1)
-    
+print('Da test xong')
